@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- slideShowTime - if set to 0, there is no autoslide -->
+
+<banner width = "700" height = "230"
+		backgroundColor = "0xffffff"
+		backgroundTransparency = "100"
+		
+		startWith = "2"
+		barHeight = "25"
+		fadeTransition = "false"
+		verticalTransition = "false"
+		controllerTop = "false"
+		transitionSpeed = "1"
+		titleX = "0"
+		titleY = "0">
+
+	<items>
+
+		<item>
+			<title></title>
+			<path>images/slide/offre.jpg</path>
+			<url>index.php?page=offre</url>
+			<target>_blank</target>
+			<bar_color>0x161115</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>7</slideShowTime>
+		</item>
+		
+	</items>
+		
+</banner>

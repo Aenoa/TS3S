@@ -1,0 +1,32 @@
+ErrorDocument 404 http://www.ts3s.org/index.php?page=error
+ErrorDocument 403 http://www.ts3s.org/index.php?page=denied
+ErrorDocument 500 /errpages.121.d/err_500.html
+
+SetEnv PHP_VER 5.2
+SetEnv REGISTER_GLOBALS 0
+php_flag error_reporting no
+php_value error_level E_NONE
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+<Files fscript.php>
+order allow,deny
+deny from all
+</Files>
+
+<Files gscript.php>
+order allow,deny
+deny from all
+</Files>
+
+<Files mdscript.php>
+order allow,deny
+deny from all
+</Files>
+
+
+RewriteEngine on
+RewriteCond %{QUERY_STRING} proc\/self\/environ [OR]

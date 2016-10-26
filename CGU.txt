@@ -1,0 +1,95 @@
+﻿Conditions générales d'utilisation des services TS3S
+--- Première édition le 28 décembre 2010 ---
+--- Dernière édition le 21 janvier 2012 ---
+
+I) PREAMBULE
+
+    Les présentes Conditions Générales d'Utilisation (ci-après les "CGU") décrivent les termes et conditions dans lesquels TS3S fournit un service de création et d'hébergement de serveurs Teamspeak 3 (ci-après le "Service") à l'utilisateur (ci-après "l'utilisateur").
+
+    L’accès à ce Service est subordonné au respect des présentes Conditions Générales d’Utilisation. Tout internaute souhaitant y accéder doit avoir pris connaissance préalablement de ces Conditions Générales d’Utilisation et s'engage à les respecter sans réserve.
+
+    L'utilisation des serveurs n'est pas sous la responsabilité de TS3S.
+
+    TS3S est une communauté libre, permettant à tout un chacun d'avoir un serveur teamspeak gratuitement sans devoir débourser d'argent. Toutefois, le non respect des CGU nous donne droit à la suppression, la désactivation et la dénonciation de votre serveur.
+
+    Toute suppression éventuelle d'un contenu sur un serveur Teamspeak 3 hébergé par TS3S sera donc la conséquence d'un non respect de cette règle.
+
+II) INFORMATIONS ET RESPONSABILITE
+
+	TS3S.ORG est une communauté sans forme sociale, ayant pour siège social le 15 avenue Gabriel Baugnies, 7600 Péruwelz (Belgique). Notre site web est hébergé par OVH SAS (www.ovh.com), dont le siège social est situé 2 rue Kellermann - 59100 Roubaix (France). Notre serveur virtuel (VPS) abritant les serveurs TeamSpeak 3 est fournis par IKOULA  SARL (www.ikoula.com) dont le siège social est situé 175-177 rue d'Aguesseau 92100 Boulogne Billancourt (FRANCE).
+	
+	TS3S.ORG se décharge de toute responsabilité sur l'utilisation qui est faite des serveurs virtuels fournis par celui ci. En cas de litige avec une quelconque personne ou juridiction, nous redirigerons la personne vers l'utilisateur directement. TS3S.ORG n'assure pas non plus le fait que le serveur soit disponible à 100%. En vous inscrivant, vous acceptez que votre serveur soit coupé à tout moment, seul ou avec manipulation d'un membre de l'équipe TS3S.ORG.
+	
+	Les serveurs sont utilisés sous plateforme WINDOWS SERVER 2008 R2, le fichier éxecutif est disponible sur le site officiel de TeamSpeak 3, www.teamspeak.org.
+	
+	L'utilisateur est tenu de consulter régulièrement les CGU et ne peut donc pas déclarer ne pas être au courant des nouvelles réformes prises lors d'une édition ultérieure. De plus, l'utilisateur sera averti par mail de la modification des CGU.
+	
+	Notre site n'a aucun rapport direct avec les sites www.ovh.com, www.ikoula.com, www.teamspeak.com, www.paypal.com et tout autre site cité dans les CGU et dans l'intégralité de notre site.
+
+	Conformément à loi belge du 8 décembre 1992 relative à la protection de la vie privée, vous bénéficiez d'un droit d'accès aux données personnelles que vous nous faites parvenir via le site. De même, vous avez le droit de les faire rectifier. Les données collectées ne seront jamais utilisées à des fins commerciales, de publicité ou autre. En aucun cas nous ne les soumettrons à des tiers.
+	
+III) REGLEMENT
+
+	Article I)
+	L'utilisateur s'engage sur l'honneur à ne pas utiliser son serveur virtuel pour en tirer un quelconque profit que ce soit, même avec accord écrit de TeamSpeak ou TS3S.ORG.
+	
+	Article II)
+	L'utilisateur s'engage à ne pas utiliser l'icone de Server Admin Query (ICON_ID: 500) en vue du fait qu'il est réservé aux membres de l'équipe TS3S.
+	
+	Article III)
+	L'utilisateur s'engage à ne pas tenter de faire planter, redémarrer ou réinitialiser le serveur en profitant d'une faille n'étant pas corrigée.
+	
+	Article IV)
+	L'utilisateur s'engage à ne pas divulger ses informations de compte pour le site TS3S.ORG car cela peut mettre en péril la sécurité du compte concerné et donc du serveur.
+	
+	Article V)
+	L'utilisateur s'engage à réactiver son serveur tout les mois complets (31  jours) sous peine de le voir être cédé au prochain membre inscrit réclamant un serveur gratuit. 
+	
+	Article VI)
+	L'utilisateur est obligatoirement résident d'un des térritoires suivant: Belgique, France, Suisse, Luxembourg, Canada;
+	
+	Article VII)
+	L'utilisateur s'engage à utiliser le serveur TeamSpeak 3 dans le cadre d'une dite "guilde", d'un dit "clan", ou d'une dite "communauté". Toute utilisation autre sera sanctionnée par une suppréssion du serveur vocal.
+	
+	Article VIII)
+	Les utilisateurs sont formellement interdits de faire une utilisation autre que communautaire pour un clan ou guilde d'un jeu vidéo. Nous nous réservons le droit d'interdire ou fermer un serveur si il n'est pas utilisé a cet escient.
+	
+	Article IX)
+	L'utilisateur ne fera pas plus d'une demande de serveur en même temps, et ne redemanderez pas un serveur si il en a déjà obtenu un.
+	
+	Article X)
+	L'utilisateur ne créera pas plusieurs comptes sur le site web de TS3S.
+	
+	Article XI)
+	L'utilisateur ne doit pas utiliser un Proxy pour la demande de serveurs.
+	
+	Article XII)
+	L'utilisateur doit renommer son serveur dans les 3 jours après réception, sous peine de le voir cédé au prochain client en attente d'un serveur gratuit.
+	
+
+IV) PROTECTION DE VOS INFORMATIONS
+
+	TS3S.ORG s'engage a ne pas divulger votre pseudonyme, adresse e-mail, mot de passe ou toute autre information collectée sur notre site a quiconque. Nous vous assurons que vos informations ne serviront pas à des fins commerciales, ou à des campagnes publicitaires par e-mail.
+	
+	Si vous souhaitez que vos informations soit effacées de notre base de donnée, vous avez la possibilité de contacter via le Support un membre de l'équipe en expliquant que vous souhaitez cloturer votre compte TS3S. Cette action est irréparable et nécessitera de votre part une nouvelle inscription au site si vous souhaitez de nouveau être membre.
+
+V) SERVICE
+
+	TS3S.ORG est une communauté sans forme juridique vous offrant ses services de manière totalement gratuite, tout en ne tirant strictement aucun bénéfice des visites, publicités, ou autres services proposés sur le site. Toute argent étant récoltée via l'intermédiaire du domaine *.ts3s.org sera exclusivement déstiné à la continuité de l'hébergement des serveurs TeamSpeak 3. 
+	
+
+	TS3S.ORG s'engage* au possible à mettre à votre disposition sous le terme de "SERVICE" :
+	
+	-Un compte utilisateur pour y gérer un serveur TS3S
+	-Un interface d'actualisation du serveur
+	-Un annuaire de référencement : 
+		http://www.ts3s.org/index.php?page=partners
+	-Un support rapide par mail : 
+		http://www.ts3s.org/index.php?page=contact
+	-Une plateforme TS3 stable : 
+		Versions Stables et Released uniquement
+	-Des tutoriaux pour TeamSpeak 3
+	-Un accès TCP Query pour gérer votre serveur a distance
+	-Un accès FTP personnel pour stocker des fichiers (bientôt)
+	
+	* Sous réserve de tout incident technique, de toute maintenance, de toute vérification rendue nécessaire et de tout événement que nécessite la fiabilité du système.

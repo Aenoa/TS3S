@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>TS3S - En maintenance</title>
+	<meta name="Content-Type" content="UTF-8">
+	<meta name="Content-Language" content="fr">
+	<meta name="Description" content="Notre site est actuellement en maintenance. Merci de revisiter plus tard">
+	<meta name="Subject" content="Internet, audio">
+	<meta name="Copyright" content="TS3S">
+	<meta name="Author" content="Hugo Regibo">
+	<meta name="Identifier-Url" content="http://ts3s.org">
+	<meta name="Revisit-After" content="1 day">
+	<meta name="Robots" content="noindex">
+	<meta name="Rating" content="general">
+	<meta name="Distribution" content="global">
+	<meta name="Category" content="internet">
+	<meta name="DC.Title" content="TS3S - En maintenance">
+	<meta name="DC.Content-Type" content="UTF-8">
+	<meta name="DC.Content-Language" content="fr">
+	<meta name="DC.Description" content="Notre site est actuellement en maintenance. Merci de revisiter plus tard">
+	<meta name="DC.Subject" content="Internet, audio">
+	<meta name="DC.Copyright" content="TS3S">
+	<meta name="DC.Author" content="Hugo Regibo">
+	<meta name="DC.Identifier-Url" content="http://ts3s.org">
+</head>
+
+<body style="margin:auto;text-align:center;background: #b7c7a6">
+<img src="images/maintenance.png" alt="Notre site est en maintenance. Reessayez plus tard." />
+
+<br /><br />
+<a href="http://forum.ts3s.org/">Le forum reste a disposition pour nous contacter</a><br />
+Contact par mail : postmaster @ ts3s.org
+
+</body>
+</html>
