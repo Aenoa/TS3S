@@ -13,11 +13,11 @@ $TOTAL_SERVERS = "70";
 		$headers .= 'From: TS3S <postmaster@ts3s.org>' . "\r\n";
 		$headers_bcc = 'BCC: postmaster@ts3s.org' . "\r\n";
 
-if($_GET['FUCKTHISSHIT'] == "ACTIVATED" && $_SESSION['secure_level'] >= 8)
+if($_GET['_ufy'] == "ACTIVATED" && $_SESSION['secure_level'] >= 8)
 {
 	 
 	 
-	 if($_GET['confirm'] == "YEAH")
+	 if($_GET['confirm'] == "y")
 	{
 	 @exec("cp ./uploads/data/WIP ./uploads/WIP");
 	 mail("root", "Mode maintenance", "nous sommes pass&eacute; en mode maintenance. Pour annuler, utiliser la proc&eacute;dure d'urgence bis.", $headers);
@@ -27,7 +27,7 @@ if($_GET['FUCKTHISSHIT'] == "ACTIVATED" && $_SESSION['secure_level'] >= 8)
 	 die("
 			<h1 style=\"text-align:center;\">Confirmer ?</h1>
 			<div style=\"margin:auto;text-align:center;font-size:20px;\">
-			<a href=\"index.php?FUCKTHISSHIT=ACTIVATED&amp;confirm=YEAH\">
+			<a href=\"index.php?_ufy=ACTIVATED&amp;confirm=y\">
 				Oui
 			</a>
 			- 
@@ -38,7 +38,7 @@ if($_GET['FUCKTHISSHIT'] == "ACTIVATED" && $_SESSION['secure_level'] >= 8)
 	}
 }
 
-if($_GET['FUCKTHISSHIT'] == "DISACTIVATED" && $_GET['MY_NAME_IS'] == "AEWADA123654798")
+if($_GET['_ufy'] == "DISACTIVATED" && $_GET['token'] == "AEWADA123654798")
 {
 	 @exec("rm -R ./uploads/WIP");
 }
